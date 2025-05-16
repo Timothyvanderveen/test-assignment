@@ -1,0 +1,1306 @@
+[
+    {
+        "id": "084ceb0f-744d-43bb-8066-0274edeef721",
+        "state": "active",
+        "housing_url": "appartement/huren/in/breda/haven/VXGfg",
+        "type": "apartment",
+        "price": 969,
+        "street": "Haven",
+        "postcode": "4811WK",
+        "city": "Breda",
+        "province": "Noord-Brabant",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 1,
+        "surface_living": 46,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T16:25:10+0200",
+        "images": [
+            {
+                "id": "067a7300-974b-4c36-84be-ec9f689c007f",
+                "url": "https://loremflickr.com/640/480/house?random=067a7300-974b-4c36-84be-ec9f689c007f"
+            },
+            {
+                "id": "47036546-17ed-4ed7-b210-d1792000725f",
+                "url": "https://loremflickr.com/640/480/house?random=47036546-17ed-4ed7-b210-d1792000725f"
+            },
+            {
+                "id": "328b81b4-b0ca-4a88-a6d9-2c48cbadb4d9",
+                "url": "https://loremflickr.com/640/480/house?random=328b81b4-b0ca-4a88-a6d9-2c48cbadb4d9"
+            },
+            {
+                "id": "1ec44664-8664-4826-9915-702e3cde6a49",
+                "url": "https://loremflickr.com/640/480/house?random=1ec44664-8664-4826-9915-702e3cde6a49"
+            },
+            {
+                "id": "31cd639c-6854-46f7-a6b3-abd44cc7f3f6",
+                "url": "https://loremflickr.com/640/480/house?random=31cd639c-6854-46f7-a6b3-abd44cc7f3f6"
+            }
+        ]
+    },
+    {
+        "id": "e961849c-6b08-48d0-adb8-6140607c00e4",
+        "state": "active",
+        "housing_url": "appartement/huren/in/geleen/rijksweg-centrum/VXEXY",
+        "type": "apartment",
+        "price": 465,
+        "street": "Rijksweg Centrum",
+        "postcode": "6161EB",
+        "city": "Geleen",
+        "province": "Limburg",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 1,
+        "surface_living": 36,
+        "garden": null,
+        "garage": null,
+        "parking": null,
+        "balcony": false,
+        "storage": null,
+        "house_type": "free",
+        "created_at": "2024-07-31T16:11:05+0200",
+        "images": [
+            {
+                "id": "b6eb276c-75b1-43c5-86fc-221e5f12c2d2",
+                "url": "https://loremflickr.com/640/480/house?random=b6eb276c-75b1-43c5-86fc-221e5f12c2d2"
+            },
+            {
+                "id": "69bb79f9-380e-4868-8d2f-a00bc4618f0a",
+                "url": "https://loremflickr.com/640/480/house?random=69bb79f9-380e-4868-8d2f-a00bc4618f0a"
+            },
+            {
+                "id": "56a97ce4-cefe-46b0-af16-9cb1e21c5b17",
+                "url": "https://loremflickr.com/640/480/house?random=56a97ce4-cefe-46b0-af16-9cb1e21c5b17"
+            },
+            {
+                "id": "cf55c6f2-1c77-4868-9867-56b3159e8ff7",
+                "url": "https://loremflickr.com/640/480/house?random=cf55c6f2-1c77-4868-9867-56b3159e8ff7"
+            },
+            {
+                "id": "7246dee4-ae5a-4d59-8f6f-95b2b4cde114",
+                "url": "https://loremflickr.com/640/480/house?random=7246dee4-ae5a-4d59-8f6f-95b2b4cde114"
+            }
+        ]
+    },
+    {
+        "id": "5dad4f9b-31d4-455c-8e45-94bf18d9109e",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/amstelveen/herman-de-manlaan/VXE0W",
+        "type": "residentialHouse",
+        "price": 2450,
+        "street": "Herman de Manlaan",
+        "postcode": "1187WK",
+        "city": "Amstelveen",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "rentedOut",
+        "rooms_total": 5,
+        "surface_living": 115,
+        "garden": true,
+        "garage": null,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "account",
+        "created_at": "2024-07-31T15:59:04+0200",
+        "images": [
+            {
+                "id": "d843445f-3b13-4ec8-9a7f-fac88982ad04",
+                "url": "https://loremflickr.com/640/480/house?random=d843445f-3b13-4ec8-9a7f-fac88982ad04"
+            },
+            {
+                "id": "849cabad-daab-4248-a8d3-a4fd6a3b120e",
+                "url": "https://loremflickr.com/640/480/house?random=849cabad-daab-4248-a8d3-a4fd6a3b120e"
+            },
+            {
+                "id": "e5a33728-e431-4364-aa94-86e740fed1b3",
+                "url": "https://loremflickr.com/640/480/house?random=e5a33728-e431-4364-aa94-86e740fed1b3"
+            },
+            {
+                "id": "af64b82e-f1f9-48d6-829e-24fcf8c0f3be",
+                "url": "https://loremflickr.com/640/480/house?random=af64b82e-f1f9-48d6-829e-24fcf8c0f3be"
+            },
+            {
+                "id": "22fedcbc-3fd9-4869-a1f8-54f09d4b7ca9",
+                "url": "https://loremflickr.com/640/480/house?random=22fedcbc-3fd9-4869-a1f8-54f09d4b7ca9"
+            }
+        ]
+    },
+    {
+        "id": "8a616807-7d81-4fcd-931a-9831675e6bb7",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/amstelveen/maria-dermoutlaan/VXDCy",
+        "type": "residentialHouse",
+        "price": 3000,
+        "street": "Maria Dermoûtlaan",
+        "postcode": "1187VL",
+        "city": "Amstelveen",
+        "province": "Noord-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 6,
+        "surface_living": 185,
+        "garden": true,
+        "garage": true,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T15:43:08+0200",
+        "images": [
+            {
+                "id": "e392367c-7de6-4822-b622-91b7a8235cd0",
+                "url": "https://loremflickr.com/640/480/house?random=e392367c-7de6-4822-b622-91b7a8235cd0"
+            },
+            {
+                "id": "e9bf4621-b9ba-4b20-a40f-7dba5bc6645b",
+                "url": "https://loremflickr.com/640/480/house?random=e9bf4621-b9ba-4b20-a40f-7dba5bc6645b"
+            },
+            {
+                "id": "0d04f1b7-6a83-43f5-917a-3291c90375eb",
+                "url": "https://loremflickr.com/640/480/house?random=0d04f1b7-6a83-43f5-917a-3291c90375eb"
+            },
+            {
+                "id": "202833db-6d25-4cc3-ac73-566ec3645aa5",
+                "url": "https://loremflickr.com/640/480/house?random=202833db-6d25-4cc3-ac73-566ec3645aa5"
+            },
+            {
+                "id": "ad031880-2708-44ff-905e-c36f86a6cd9d",
+                "url": "https://loremflickr.com/640/480/house?random=ad031880-2708-44ff-905e-c36f86a6cd9d"
+            }
+        ]
+    },
+    {
+        "id": "7d2b9306-9bc3-4be9-ac33-4cc6155a8413",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/hoofddorp/koegelwieck/VXDCz",
+        "type": "residentialHouse",
+        "price": 2700,
+        "street": "Koegelwieck",
+        "postcode": "2134XX",
+        "city": "Hoofddorp",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 6,
+        "surface_living": 130,
+        "garden": true,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T15:43:08+0200",
+        "images": [
+            {
+                "id": "bcb662aa-867b-4f05-9abb-957190969dc6",
+                "url": "https://loremflickr.com/640/480/house?random=bcb662aa-867b-4f05-9abb-957190969dc6"
+            },
+            {
+                "id": "5a381dda-6415-4ad8-b08c-0797ff9264e7",
+                "url": "https://loremflickr.com/640/480/house?random=5a381dda-6415-4ad8-b08c-0797ff9264e7"
+            },
+            {
+                "id": "49c73011-8ce2-4ced-bd8c-e250b015d512",
+                "url": "https://loremflickr.com/640/480/house?random=49c73011-8ce2-4ced-bd8c-e250b015d512"
+            },
+            {
+                "id": "3a153d4f-6aa7-4176-a8a9-10c88e88e8ae",
+                "url": "https://loremflickr.com/640/480/house?random=3a153d4f-6aa7-4176-a8a9-10c88e88e8ae"
+            },
+            {
+                "id": "8af72b18-6671-4a19-82b3-5ce1e6fcc8c4",
+                "url": "https://loremflickr.com/640/480/house?random=8af72b18-6671-4a19-82b3-5ce1e6fcc8c4"
+            }
+        ]
+    },
+    {
+        "id": "351662ae-442a-4d1e-b13e-8f7a42a8cbfc",
+        "state": "active",
+        "housing_url": "appartement/huren/in/wormerveer/steijnstraat/VXCwS",
+        "type": "apartment",
+        "price": 1500,
+        "street": "Steijnstraat",
+        "postcode": "1521GA",
+        "city": "Wormerveer",
+        "province": "Noord-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 100,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": true,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T15:37:06+0200",
+        "images": [
+            {
+                "id": "881e22ab-6636-4d65-b565-4016f52cee2f",
+                "url": "https://loremflickr.com/640/480/house?random=881e22ab-6636-4d65-b565-4016f52cee2f"
+            },
+            {
+                "id": "dca582b9-5fb2-4034-be3e-69753d61c496",
+                "url": "https://loremflickr.com/640/480/house?random=dca582b9-5fb2-4034-be3e-69753d61c496"
+            },
+            {
+                "id": "7a9f2ad1-7a25-4b14-aa1e-08f48048dac7",
+                "url": "https://loremflickr.com/640/480/house?random=7a9f2ad1-7a25-4b14-aa1e-08f48048dac7"
+            },
+            {
+                "id": "dd5c84bf-8eb2-4b70-b116-4a695ac9a43b",
+                "url": "https://loremflickr.com/640/480/house?random=dd5c84bf-8eb2-4b70-b116-4a695ac9a43b"
+            },
+            {
+                "id": "c3c79d73-1ec3-465e-8cc8-229293a94f1f",
+                "url": "https://loremflickr.com/640/480/house?random=c3c79d73-1ec3-465e-8cc8-229293a94f1f"
+            }
+        ]
+    },
+    {
+        "id": "7626ce73-3b5f-4469-b625-efffd2b30081",
+        "state": "active",
+        "housing_url": "appartement/huren/in/rotterdam/walravenstraat/VX8gC",
+        "type": "apartment",
+        "price": 1216,
+        "street": "Walravenstraat",
+        "postcode": "3074NL",
+        "city": "Rotterdam",
+        "province": "Zuid-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 82,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T14:52:02+0200",
+        "images": [
+            {
+                "id": "0060c684-10c6-4016-9ec8-7445edfbbece",
+                "url": "https://loremflickr.com/640/480/house?random=0060c684-10c6-4016-9ec8-7445edfbbece"
+            },
+            {
+                "id": "df09d958-20c7-4cef-bc5f-7fc76b6bc383",
+                "url": "https://loremflickr.com/640/480/house?random=df09d958-20c7-4cef-bc5f-7fc76b6bc383"
+            },
+            {
+                "id": "0956ace5-da0c-47b7-a532-6315fe00f02e",
+                "url": "https://loremflickr.com/640/480/house?random=0956ace5-da0c-47b7-a532-6315fe00f02e"
+            },
+            {
+                "id": "0ca5631f-c936-4d78-b5e9-ea906da55d23",
+                "url": "https://loremflickr.com/640/480/house?random=0ca5631f-c936-4d78-b5e9-ea906da55d23"
+            },
+            {
+                "id": "579d6eec-f12f-4c14-9b6a-6296f683ae81",
+                "url": "https://loremflickr.com/640/480/house?random=579d6eec-f12f-4c14-9b6a-6296f683ae81"
+            }
+        ]
+    },
+    {
+        "id": "6e162495-f448-46e0-83bb-6c862e7e5fcc",
+        "state": "active",
+        "housing_url": "appartement/huren/in/amsterdam/narva-eiland/VX756",
+        "type": "apartment",
+        "price": 2950,
+        "street": "Narva-eiland",
+        "postcode": "1014ZJ",
+        "city": "Amsterdam",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 96,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": null,
+        "house_type": "free",
+        "created_at": "2024-07-31T14:32:17+0200",
+        "images": [
+            {
+                "id": "b31f0dd0-dac0-4fe6-9ffd-4edd404452c0",
+                "url": "https://loremflickr.com/640/480/house?random=b31f0dd0-dac0-4fe6-9ffd-4edd404452c0"
+            },
+            {
+                "id": "28f8f180-5f53-4e90-b254-7efc2d8f7d55",
+                "url": "https://loremflickr.com/640/480/house?random=28f8f180-5f53-4e90-b254-7efc2d8f7d55"
+            },
+            {
+                "id": "648f21fc-ab43-4bd5-8122-ffc4379ef5e5",
+                "url": "https://loremflickr.com/640/480/house?random=648f21fc-ab43-4bd5-8122-ffc4379ef5e5"
+            },
+            {
+                "id": "aac544c4-4897-4a2d-a06d-a0bf7a303b51",
+                "url": "https://loremflickr.com/640/480/house?random=aac544c4-4897-4a2d-a06d-a0bf7a303b51"
+            },
+            {
+                "id": "42c67b92-5d71-462e-90ed-3ae3addc1bc6",
+                "url": "https://loremflickr.com/640/480/house?random=42c67b92-5d71-462e-90ed-3ae3addc1bc6"
+            }
+        ]
+    },
+    {
+        "id": "a762a922-0d16-42a1-a386-98c54e2e95ed",
+        "state": "active",
+        "housing_url": "appartement/huren/in/hoofddorp/marktlaan/VX3cO",
+        "type": "apartment",
+        "price": 2290,
+        "street": "Marktlaan",
+        "postcode": "2132DM",
+        "city": "Hoofddorp",
+        "province": "Noord-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 133,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": true,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:55:17+0200",
+        "images": [
+            {
+                "id": "b60da455-f32f-4d98-85f2-853fb557ee9b",
+                "url": "https://loremflickr.com/640/480/house?random=b60da455-f32f-4d98-85f2-853fb557ee9b"
+            },
+            {
+                "id": "f3c9e83e-359e-48a3-bf0b-87c5b2b74d1f",
+                "url": "https://loremflickr.com/640/480/house?random=f3c9e83e-359e-48a3-bf0b-87c5b2b74d1f"
+            },
+            {
+                "id": "1d5ab1af-b421-480e-92fd-3d00fa835f97",
+                "url": "https://loremflickr.com/640/480/house?random=1d5ab1af-b421-480e-92fd-3d00fa835f97"
+            },
+            {
+                "id": "555904e1-0c5d-4f26-8aef-ff9dfe1d2b65",
+                "url": "https://loremflickr.com/640/480/house?random=555904e1-0c5d-4f26-8aef-ff9dfe1d2b65"
+            },
+            {
+                "id": "9888582e-2c05-44c6-8584-07e89eaf2332",
+                "url": "https://loremflickr.com/640/480/house?random=9888582e-2c05-44c6-8584-07e89eaf2332"
+            }
+        ]
+    },
+    {
+        "id": "9643f495-9a24-4f1c-b157-fd8f4dc01067",
+        "state": "active",
+        "housing_url": "appartement/huren/in/amsterdam/john-franklinstraat/VX3Lt",
+        "type": "apartment",
+        "price": 1800,
+        "street": "John Franklinstraat",
+        "postcode": "1056TA",
+        "city": "Amsterdam",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 65,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": true,
+        "storage": null,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:43:07+0200",
+        "images": [
+            {
+                "id": "28956532-2fe3-45d0-bee5-7d413cdd6f65",
+                "url": "https://loremflickr.com/640/480/house?random=28956532-2fe3-45d0-bee5-7d413cdd6f65"
+            },
+            {
+                "id": "335378f2-3302-4485-87f8-cdf9b703c69b",
+                "url": "https://loremflickr.com/640/480/house?random=335378f2-3302-4485-87f8-cdf9b703c69b"
+            },
+            {
+                "id": "9123292d-d8c7-40c1-83e2-1ca664f9044b",
+                "url": "https://loremflickr.com/640/480/house?random=9123292d-d8c7-40c1-83e2-1ca664f9044b"
+            },
+            {
+                "id": "14c7c69f-0cca-4784-91a8-0314897c9743",
+                "url": "https://loremflickr.com/640/480/house?random=14c7c69f-0cca-4784-91a8-0314897c9743"
+            },
+            {
+                "id": "d9625ca1-851c-439f-b1c1-2ec541cda406",
+                "url": "https://loremflickr.com/640/480/house?random=d9625ca1-851c-439f-b1c1-2ec541cda406"
+            }
+        ]
+    },
+    {
+        "id": "2b68a9a5-6219-4f12-b1db-a3c0bfda169c",
+        "state": "active",
+        "housing_url": "appartement/huren/in/reusel/windvang/VX3Ls",
+        "type": "apartment",
+        "price": 1088,
+        "street": "Windvang",
+        "postcode": "5541HP",
+        "city": "Reusel",
+        "province": "Noord-Brabant",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 50,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": true,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:43:07+0200",
+        "images": [
+            {
+                "id": "c8ca3416-6302-41ab-8171-e210e6f6e0a3",
+                "url": "https://loremflickr.com/640/480/house?random=c8ca3416-6302-41ab-8171-e210e6f6e0a3"
+            },
+            {
+                "id": "d1e6fea3-6d4d-4e3b-bff4-aba6e81ba98d",
+                "url": "https://loremflickr.com/640/480/house?random=d1e6fea3-6d4d-4e3b-bff4-aba6e81ba98d"
+            },
+            {
+                "id": "2228bd87-7eda-4982-b987-5c171bc679f9",
+                "url": "https://loremflickr.com/640/480/house?random=2228bd87-7eda-4982-b987-5c171bc679f9"
+            },
+            {
+                "id": "a85ca54a-04da-4763-9388-3fd66ac9ef7b",
+                "url": "https://loremflickr.com/640/480/house?random=a85ca54a-04da-4763-9388-3fd66ac9ef7b"
+            },
+            {
+                "id": "81570258-ea84-4da9-8069-2a3c976b36c8",
+                "url": "https://loremflickr.com/640/480/house?random=81570258-ea84-4da9-8069-2a3c976b36c8"
+            }
+        ]
+    },
+    {
+        "id": "2cc97dbd-5ec2-415c-9929-78ec87a15fb4",
+        "state": "active",
+        "housing_url": "appartement/huren/in/enschede/haverstraatpassage/VX35M",
+        "type": "apartment",
+        "price": 775,
+        "street": "Haverstraatpassage",
+        "postcode": "7511EZ",
+        "city": "Enschede",
+        "province": "Overijssel",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 62,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:40:02+0200",
+        "images": [
+            {
+                "id": "2b4f9ab2-5a24-49dc-8846-77683716f33e",
+                "url": "https://loremflickr.com/640/480/house?random=2b4f9ab2-5a24-49dc-8846-77683716f33e"
+            },
+            {
+                "id": "81f8925e-7c99-4e87-950f-9ff9500a5c45",
+                "url": "https://loremflickr.com/640/480/house?random=81f8925e-7c99-4e87-950f-9ff9500a5c45"
+            },
+            {
+                "id": "96519cc0-1a8d-4e3b-b583-8773471bc9b0",
+                "url": "https://loremflickr.com/640/480/house?random=96519cc0-1a8d-4e3b-b583-8773471bc9b0"
+            },
+            {
+                "id": "8520edb2-15cd-4c94-a610-a373e7f5ee22",
+                "url": "https://loremflickr.com/640/480/house?random=8520edb2-15cd-4c94-a610-a373e7f5ee22"
+            },
+            {
+                "id": "fe35e548-5242-4509-9f4f-b97f17256289",
+                "url": "https://loremflickr.com/640/480/house?random=fe35e548-5242-4509-9f4f-b97f17256289"
+            }
+        ]
+    },
+    {
+        "id": "79558b1a-2a87-4313-a969-70c9727244e3",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/cruquius/berberlaan/VX2oq",
+        "type": "residentialHouse",
+        "price": 2150,
+        "street": "Berberlaan",
+        "postcode": "2142GB",
+        "city": "Cruquius",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 5,
+        "surface_living": 125,
+        "garden": true,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:38:06+0200",
+        "images": [
+            {
+                "id": "8f3a6d46-04f8-45ef-8587-7036d5036cad",
+                "url": "https://loremflickr.com/640/480/house?random=8f3a6d46-04f8-45ef-8587-7036d5036cad"
+            },
+            {
+                "id": "ffb0f96e-0263-4623-9490-3c99c04063ed",
+                "url": "https://loremflickr.com/640/480/house?random=ffb0f96e-0263-4623-9490-3c99c04063ed"
+            },
+            {
+                "id": "2055534e-b60f-46a3-8ab0-ad5ad3e2b88f",
+                "url": "https://loremflickr.com/640/480/house?random=2055534e-b60f-46a3-8ab0-ad5ad3e2b88f"
+            },
+            {
+                "id": "38a62667-72e0-4286-9aad-d32b2e0af2a2",
+                "url": "https://loremflickr.com/640/480/house?random=38a62667-72e0-4286-9aad-d32b2e0af2a2"
+            },
+            {
+                "id": "227d970c-8dbd-4333-9a35-2bb8cc2c46fc",
+                "url": "https://loremflickr.com/640/480/house?random=227d970c-8dbd-4333-9a35-2bb8cc2c46fc"
+            }
+        ]
+    },
+    {
+        "id": "95285d06-085d-4721-bb1a-6cf6aa7a0ad2",
+        "state": "active",
+        "housing_url": "studio/huren/in/breda/grazendonkstraat/VX2YK",
+        "type": "studio",
+        "price": 725,
+        "street": "Grazendonkstraat",
+        "postcode": "4818PJ",
+        "city": "Breda",
+        "province": "Noord-Brabant",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": null,
+        "surface_living": null,
+        "garden": null,
+        "garage": null,
+        "parking": null,
+        "balcony": null,
+        "storage": null,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:32:15+0200",
+        "images": [
+            {
+                "id": "8714edc7-dce5-4f90-b911-e01c5b691b03",
+                "url": "https://loremflickr.com/640/480/house?random=8714edc7-dce5-4f90-b911-e01c5b691b03"
+            }
+        ]
+    },
+    {
+        "id": "c54d73c2-7f28-4009-8e93-099054686130",
+        "state": "active",
+        "housing_url": "appartement/huren/in/amsterdam/brouwersgracht/VX21I",
+        "type": "apartment",
+        "price": 2150,
+        "street": "Brouwersgracht",
+        "postcode": "1013HA",
+        "city": "Amsterdam",
+        "province": "Noord-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 61,
+        "garden": true,
+        "garage": null,
+        "parking": null,
+        "balcony": false,
+        "storage": null,
+        "house_type": "free",
+        "created_at": "2024-07-31T13:25:09+0200",
+        "images": [
+            {
+                "id": "894267d3-11bd-4383-82fe-c84ac5b8bb75",
+                "url": "https://loremflickr.com/640/480/house?random=894267d3-11bd-4383-82fe-c84ac5b8bb75"
+            },
+            {
+                "id": "fba4bc8c-b7f9-4d0d-aac2-62ef5e7f6235",
+                "url": "https://loremflickr.com/640/480/house?random=fba4bc8c-b7f9-4d0d-aac2-62ef5e7f6235"
+            },
+            {
+                "id": "c044815d-3518-4ac5-9839-aa1c886280a7",
+                "url": "https://loremflickr.com/640/480/house?random=c044815d-3518-4ac5-9839-aa1c886280a7"
+            },
+            {
+                "id": "534ad1fd-b84a-4e50-abfb-d786bc76a663",
+                "url": "https://loremflickr.com/640/480/house?random=534ad1fd-b84a-4e50-abfb-d786bc76a663"
+            },
+            {
+                "id": "3b1241a1-0dc8-4e19-bb3b-396d2d3e75e4",
+                "url": "https://loremflickr.com/640/480/house?random=3b1241a1-0dc8-4e19-bb3b-396d2d3e75e4"
+            }
+        ]
+    },
+    {
+        "id": "7ac901ca-97b8-41b1-beeb-19157edda78d",
+        "state": "active",
+        "housing_url": "appartement/huren/in/eindhoven/st-trudostraat/VWyYa",
+        "type": "apartment",
+        "price": 1180,
+        "street": "St Trudostraat",
+        "postcode": "5616GA",
+        "city": "Eindhoven",
+        "province": "Noord-Brabant",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 40,
+        "garden": true,
+        "garage": false,
+        "parking": null,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T12:46:05+0200",
+        "images": [
+            {
+                "id": "ab5b71bd-e606-4e1a-b47d-f3d86f59045c",
+                "url": "https://loremflickr.com/640/480/house?random=ab5b71bd-e606-4e1a-b47d-f3d86f59045c"
+            },
+            {
+                "id": "1b12052c-e3f4-4b1a-91c9-4b2f9bfe3db5",
+                "url": "https://loremflickr.com/640/480/house?random=1b12052c-e3f4-4b1a-91c9-4b2f9bfe3db5"
+            },
+            {
+                "id": "f4ec6fc8-6527-488b-83ca-024b7ab1f0d1",
+                "url": "https://loremflickr.com/640/480/house?random=f4ec6fc8-6527-488b-83ca-024b7ab1f0d1"
+            },
+            {
+                "id": "c63959dc-e61d-4277-ade5-39162e39eda6",
+                "url": "https://loremflickr.com/640/480/house?random=c63959dc-e61d-4277-ade5-39162e39eda6"
+            },
+            {
+                "id": "26bd274a-05cf-49bd-bc66-f34711aa38c9",
+                "url": "https://loremflickr.com/640/480/house?random=26bd274a-05cf-49bd-bc66-f34711aa38c9"
+            }
+        ]
+    },
+    {
+        "id": "9d7dd49a-a22d-4985-bce4-35dc355791a6",
+        "state": "active",
+        "housing_url": "appartement/huren/in/rotterdam/walravenstraat/VWy1Y",
+        "type": "apartment",
+        "price": 1185,
+        "street": "Walravenstraat",
+        "postcode": "3074NL",
+        "city": "Rotterdam",
+        "province": "Zuid-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 84,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T12:41:06+0200",
+        "images": [
+            {
+                "id": "ab8db4df-60de-4601-8d23-da0d38f886b8",
+                "url": "https://loremflickr.com/640/480/house?random=ab8db4df-60de-4601-8d23-da0d38f886b8"
+            },
+            {
+                "id": "db655039-1ae9-4e26-9113-a6009dc0cbe7",
+                "url": "https://loremflickr.com/640/480/house?random=db655039-1ae9-4e26-9113-a6009dc0cbe7"
+            },
+            {
+                "id": "6b2d8231-2e3f-43df-925b-44f655fd753e",
+                "url": "https://loremflickr.com/640/480/house?random=6b2d8231-2e3f-43df-925b-44f655fd753e"
+            },
+            {
+                "id": "6cda0da9-8bc0-4804-87f1-43a1df563924",
+                "url": "https://loremflickr.com/640/480/house?random=6cda0da9-8bc0-4804-87f1-43a1df563924"
+            },
+            {
+                "id": "452c42b3-a254-43cc-b541-04a3925c75f5",
+                "url": "https://loremflickr.com/640/480/house?random=452c42b3-a254-43cc-b541-04a3925c75f5"
+            }
+        ]
+    },
+    {
+        "id": "8c24fee0-fce3-4e57-b71d-1eb2e8b9083c",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/amsterdam/emanuel-van-meterenstraat/VWxUW",
+        "type": "residentialHouse",
+        "price": 2850,
+        "street": "Emanuel van Meterenstraat",
+        "postcode": "1065AN",
+        "city": "Amsterdam",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 6,
+        "surface_living": 137,
+        "garden": null,
+        "garage": false,
+        "parking": true,
+        "balcony": true,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T12:32:26+0200",
+        "images": [
+            {
+                "id": "aac1c671-952c-4739-a65d-782c21356f81",
+                "url": "https://loremflickr.com/640/480/house?random=aac1c671-952c-4739-a65d-782c21356f81"
+            },
+            {
+                "id": "67e18c0e-8c1b-46c3-9c05-339dc34fc94a",
+                "url": "https://loremflickr.com/640/480/house?random=67e18c0e-8c1b-46c3-9c05-339dc34fc94a"
+            },
+            {
+                "id": "238055f2-24e4-43ad-b0c5-9e89a93a01c9",
+                "url": "https://loremflickr.com/640/480/house?random=238055f2-24e4-43ad-b0c5-9e89a93a01c9"
+            },
+            {
+                "id": "2ae4afb1-4564-4fc5-bf36-0abb896f8795",
+                "url": "https://loremflickr.com/640/480/house?random=2ae4afb1-4564-4fc5-bf36-0abb896f8795"
+            },
+            {
+                "id": "565be629-7eea-4ca6-8a58-77178a7800f7",
+                "url": "https://loremflickr.com/640/480/house?random=565be629-7eea-4ca6-8a58-77178a7800f7"
+            }
+        ]
+    },
+    {
+        "id": "63e64e4d-d63c-4e46-b880-6d43bbdffbe0",
+        "state": "active",
+        "housing_url": "appartement/huren/in/dordrecht/troelstraweg/VWwgy",
+        "type": "apartment",
+        "price": 400,
+        "street": "Troelstraweg",
+        "postcode": "3317TM",
+        "city": "Dordrecht",
+        "province": "Zuid-Holland",
+        "delivery_level": "unknown",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 55,
+        "garden": null,
+        "garage": null,
+        "parking": null,
+        "balcony": null,
+        "storage": null,
+        "house_type": "account",
+        "created_at": "2024-07-31T12:26:47+0200",
+        "images": [
+            {
+                "id": "f6d647e5-11cf-4997-8bae-217c047af47b",
+                "url": "https://loremflickr.com/640/480/house?random=f6d647e5-11cf-4997-8bae-217c047af47b"
+            },
+            {
+                "id": "3a9087bf-a4ab-4154-8f17-cc1a7493025f",
+                "url": "https://loremflickr.com/640/480/house?random=3a9087bf-a4ab-4154-8f17-cc1a7493025f"
+            },
+            {
+                "id": "75c68da2-7dad-4dd0-ac59-0e890baee81f",
+                "url": "https://loremflickr.com/640/480/house?random=75c68da2-7dad-4dd0-ac59-0e890baee81f"
+            },
+            {
+                "id": "38e0b428-22dd-4e9d-a712-4c02afefeb55",
+                "url": "https://loremflickr.com/640/480/house?random=38e0b428-22dd-4e9d-a712-4c02afefeb55"
+            },
+            {
+                "id": "fda216e8-e504-400e-a6bf-68888ade2082",
+                "url": "https://loremflickr.com/640/480/house?random=fda216e8-e504-400e-a6bf-68888ade2082"
+            }
+        ]
+    },
+    {
+        "id": "bd6c0dcc-d1a0-435e-b397-618d39c95537",
+        "state": "active",
+        "housing_url": "appartement/huren/in/maastricht/nassaulaan/VWu1p",
+        "type": "apartment",
+        "price": 650,
+        "street": "Nassaulaan",
+        "postcode": "6224KB",
+        "city": "Maastricht",
+        "province": "Limburg",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 34,
+        "garden": false,
+        "garage": false,
+        "parking": null,
+        "balcony": false,
+        "storage": false,
+        "house_type": "account",
+        "created_at": "2024-07-31T12:02:36+0200",
+        "images": [
+            {
+                "id": "f855f9be-5a30-4726-815b-0fafeea3acd0",
+                "url": "https://loremflickr.com/640/480/house?random=f855f9be-5a30-4726-815b-0fafeea3acd0"
+            },
+            {
+                "id": "1c7a3526-a9cd-4ce1-8614-c77e0dbe69cb",
+                "url": "https://loremflickr.com/640/480/house?random=1c7a3526-a9cd-4ce1-8614-c77e0dbe69cb"
+            },
+            {
+                "id": "cf0c2f8f-e6cd-43bf-80ad-59a0cf9b6088",
+                "url": "https://loremflickr.com/640/480/house?random=cf0c2f8f-e6cd-43bf-80ad-59a0cf9b6088"
+            },
+            {
+                "id": "89322232-e637-401f-abb6-9d1d2318c1a9",
+                "url": "https://loremflickr.com/640/480/house?random=89322232-e637-401f-abb6-9d1d2318c1a9"
+            },
+            {
+                "id": "95770f11-9a53-4e3b-8a9b-9b4d66f0978d",
+                "url": "https://loremflickr.com/640/480/house?random=95770f11-9a53-4e3b-8a9b-9b4d66f0978d"
+            }
+        ]
+    },
+    {
+        "id": "bd6c0dcc-d1a0-435e-b397-618d39c95537",
+        "state": "active",
+        "housing_url": "appartement/huren/in/maastricht/nassaulaan/VWu1p",
+        "type": "apartment",
+        "price": 650,
+        "street": "Nassaulaan",
+        "postcode": "6224KB",
+        "city": "Maastricht",
+        "province": "Limburg",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 34,
+        "garden": false,
+        "garage": false,
+        "parking": null,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T12:02:36+0200",
+        "images": [
+            {
+                "id": "f855f9be-5a30-4726-815b-0fafeea3acd0",
+                "url": "https://loremflickr.com/640/480/house?random=f855f9be-5a30-4726-815b-0fafeea3acd0"
+            },
+            {
+                "id": "1c7a3526-a9cd-4ce1-8614-c77e0dbe69cb",
+                "url": "https://loremflickr.com/640/480/house?random=1c7a3526-a9cd-4ce1-8614-c77e0dbe69cb"
+            },
+            {
+                "id": "cf0c2f8f-e6cd-43bf-80ad-59a0cf9b6088",
+                "url": "https://loremflickr.com/640/480/house?random=cf0c2f8f-e6cd-43bf-80ad-59a0cf9b6088"
+            },
+            {
+                "id": "89322232-e637-401f-abb6-9d1d2318c1a9",
+                "url": "https://loremflickr.com/640/480/house?random=89322232-e637-401f-abb6-9d1d2318c1a9"
+            },
+            {
+                "id": "95770f11-9a53-4e3b-8a9b-9b4d66f0978d",
+                "url": "https://loremflickr.com/640/480/house?random=95770f11-9a53-4e3b-8a9b-9b4d66f0978d"
+            }
+        ]
+    },
+    {
+        "id": "6b6f8235-71b0-497c-a544-69b54ddc203c",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/vlagtwedde/de-vennen/VWaqf",
+        "type": "residentialHouse",
+        "price": 1300,
+        "street": "De Vennen",
+        "postcode": "9541LE",
+        "city": "Vlagtwedde",
+        "province": "Groningen",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 4,
+        "surface_living": 98,
+        "garden": true,
+        "garage": null,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T11:04:53+0200",
+        "images": [
+            {
+                "id": "831c72e7-e14b-41f2-8561-0d9378329f4f",
+                "url": "https://loremflickr.com/640/480/house?random=831c72e7-e14b-41f2-8561-0d9378329f4f"
+            },
+            {
+                "id": "db4941e1-bf17-49a7-85fb-ff93aaa92e8d",
+                "url": "https://loremflickr.com/640/480/house?random=db4941e1-bf17-49a7-85fb-ff93aaa92e8d"
+            },
+            {
+                "id": "71cb6b5c-c001-4c0a-854f-d19de8a8d365",
+                "url": "https://loremflickr.com/640/480/house?random=71cb6b5c-c001-4c0a-854f-d19de8a8d365"
+            },
+            {
+                "id": "1abd349c-2738-4ada-aa0c-fd8b4fb69dc1",
+                "url": "https://loremflickr.com/640/480/house?random=1abd349c-2738-4ada-aa0c-fd8b4fb69dc1"
+            },
+            {
+                "id": "59ee2cce-12c3-4fea-b9c4-bdbdab6d3b59",
+                "url": "https://loremflickr.com/640/480/house?random=59ee2cce-12c3-4fea-b9c4-bdbdab6d3b59"
+            }
+        ]
+    },
+    {
+        "id": "447acf06-2da1-4182-a04f-5b4340259aa5",
+        "state": "active",
+        "housing_url": "huurwoning/huren/in/zuidwolde/krayenkamp/VWaqe",
+        "type": "residentialHouse",
+        "price": 500,
+        "street": "Krayenkamp",
+        "postcode": "7921HJ",
+        "city": "Zuidwolde",
+        "province": "Drenthe",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 5,
+        "surface_living": 116,
+        "garden": true,
+        "garage": true,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T11:04:53+0200",
+        "images": [
+            {
+                "id": "dc16f145-ce78-40bb-9c1c-c21b2df312a8",
+                "url": "https://loremflickr.com/640/480/house?random=dc16f145-ce78-40bb-9c1c-c21b2df312a8"
+            },
+            {
+                "id": "02007b14-df8f-4256-a71e-f42541342053",
+                "url": "https://loremflickr.com/640/480/house?random=02007b14-df8f-4256-a71e-f42541342053"
+            },
+            {
+                "id": "30559c21-4427-4a44-b48a-b4d69536b520",
+                "url": "https://loremflickr.com/640/480/house?random=30559c21-4427-4a44-b48a-b4d69536b520"
+            },
+            {
+                "id": "159769ee-43e3-47e5-b5a4-f3c81856e0b5",
+                "url": "https://loremflickr.com/640/480/house?random=159769ee-43e3-47e5-b5a4-f3c81856e0b5"
+            },
+            {
+                "id": "df5e9dc3-b9a1-41ce-b784-d99bd0011bd3",
+                "url": "https://loremflickr.com/640/480/house?random=df5e9dc3-b9a1-41ce-b784-d99bd0011bd3"
+            }
+        ]
+    },
+    {
+        "id": "b8110217-bd7a-4ec3-b4fd-22716865aebd",
+        "state": "active",
+        "housing_url": "appartement/huren/in/nijmegen/molenstraat/VWaa8",
+        "type": "apartment",
+        "price": 1375,
+        "street": "Molenstraat",
+        "postcode": "6511HA",
+        "city": "Nijmegen",
+        "province": "Gelderland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 64,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": true,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T11:02:02+0200",
+        "images": [
+            {
+                "id": "dee8eacb-413d-4c3e-965e-da3faf260974",
+                "url": "https://loremflickr.com/640/480/house?random=dee8eacb-413d-4c3e-965e-da3faf260974"
+            },
+            {
+                "id": "119505d7-ee21-44f7-ba77-d1519bf6a3e3",
+                "url": "https://loremflickr.com/640/480/house?random=119505d7-ee21-44f7-ba77-d1519bf6a3e3"
+            },
+            {
+                "id": "2f3bbb8a-e7e4-4c00-91bb-c6fe5013423d",
+                "url": "https://loremflickr.com/640/480/house?random=2f3bbb8a-e7e4-4c00-91bb-c6fe5013423d"
+            },
+            {
+                "id": "5f788dcd-4a2c-47a9-bbb9-587c665c397c",
+                "url": "https://loremflickr.com/640/480/house?random=5f788dcd-4a2c-47a9-bbb9-587c665c397c"
+            },
+            {
+                "id": "85ac222b-0e0a-4449-b3e5-1d3a2b339835",
+                "url": "https://loremflickr.com/640/480/house?random=85ac222b-0e0a-4449-b3e5-1d3a2b339835"
+            }
+        ]
+    },
+    {
+        "id": "dad0ffce-6918-472b-a640-48aec1dae8d6",
+        "state": "active",
+        "housing_url": "appartement/huren/in/rotterdam/walravenstraat/VWYS0",
+        "type": "apartment",
+        "price": 1263,
+        "street": "Walravenstraat",
+        "postcode": "3074NL",
+        "city": "Rotterdam",
+        "province": "Zuid-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "underOption",
+        "rooms_total": 2,
+        "surface_living": 82,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "free",
+        "created_at": "2024-07-31T10:41:04+0200",
+        "images": [
+            {
+                "id": "2da3e088-f32f-4a98-87ef-d61c29b3f270",
+                "url": "https://loremflickr.com/640/480/house?random=2da3e088-f32f-4a98-87ef-d61c29b3f270"
+            },
+            {
+                "id": "31b5d16a-0185-4c22-a3f3-748aec52a261",
+                "url": "https://loremflickr.com/640/480/house?random=31b5d16a-0185-4c22-a3f3-748aec52a261"
+            },
+            {
+                "id": "46db4418-1759-47d7-a3dd-dd1c54c9ccb6",
+                "url": "https://loremflickr.com/640/480/house?random=46db4418-1759-47d7-a3dd-dd1c54c9ccb6"
+            },
+            {
+                "id": "b0ad2d35-b185-41cb-8fbb-9cc1bc1e0d11",
+                "url": "https://loremflickr.com/640/480/house?random=b0ad2d35-b185-41cb-8fbb-9cc1bc1e0d11"
+            },
+            {
+                "id": "60f0eaf9-1ca4-48c2-bb99-3517c58c2322",
+                "url": "https://loremflickr.com/640/480/house?random=60f0eaf9-1ca4-48c2-bb99-3517c58c2322"
+            }
+        ]
+    },
+    {
+        "id": "ecd7601c-5bea-4545-9984-4b308342706c",
+        "state": "active",
+        "housing_url": "appartement/huren/in/amsterdam/beysterveld/VWXNw",
+        "type": "apartment",
+        "price": 2850,
+        "street": "Beysterveld",
+        "postcode": "1083KD",
+        "city": "Amsterdam",
+        "province": "Noord-Holland",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 4,
+        "surface_living": 90,
+        "garden": null,
+        "garage": null,
+        "parking": null,
+        "balcony": false,
+        "storage": null,
+        "house_type": "account",
+        "created_at": "2024-07-31T10:25:05+0200",
+        "images": [
+            {
+                "id": "f011ffbc-4240-4dd7-808b-768d3d150712",
+                "url": "https://loremflickr.com/640/480/house?random=f011ffbc-4240-4dd7-808b-768d3d150712"
+            },
+            {
+                "id": "df7b0ef2-83e5-4c57-8644-ca286ad1beff",
+                "url": "https://loremflickr.com/640/480/house?random=df7b0ef2-83e5-4c57-8644-ca286ad1beff"
+            },
+            {
+                "id": "8af2ead2-843c-460f-becc-0d30e519f591",
+                "url": "https://loremflickr.com/640/480/house?random=8af2ead2-843c-460f-becc-0d30e519f591"
+            },
+            {
+                "id": "dd7e8dee-bfbb-4bc5-8872-0a7ab8e682e0",
+                "url": "https://loremflickr.com/640/480/house?random=dd7e8dee-bfbb-4bc5-8872-0a7ab8e682e0"
+            },
+            {
+                "id": "02654563-6b08-43a3-9aca-729dd035ea07",
+                "url": "https://loremflickr.com/640/480/house?random=02654563-6b08-43a3-9aca-729dd035ea07"
+            }
+        ]
+    },
+    {
+        "id": "d4f6f9e5-ded6-4a70-a939-e33ed543ef36",
+        "state": "active",
+        "housing_url": "appartement/huren/in/tilburg/bredaseweg/VWUim",
+        "type": "apartment",
+        "price": 1650,
+        "street": "Bredaseweg",
+        "postcode": "5038NK",
+        "city": "Tilburg",
+        "province": "Noord-Brabant",
+        "delivery_level": "furnished",
+        "rental_status": "forRent",
+        "rooms_total": 2,
+        "surface_living": 90,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T09:40:06+0200",
+        "images": [
+            {
+                "id": "dc6832c5-04df-41d7-927d-70ddeb4c8fa9",
+                "url": "https://loremflickr.com/640/480/house?random=dc6832c5-04df-41d7-927d-70ddeb4c8fa9"
+            },
+            {
+                "id": "7847b4eb-cc2c-42af-8a82-14972e36f0d8",
+                "url": "https://loremflickr.com/640/480/house?random=7847b4eb-cc2c-42af-8a82-14972e36f0d8"
+            },
+            {
+                "id": "c52cbd49-8920-470c-a446-f9440bbaa936",
+                "url": "https://loremflickr.com/640/480/house?random=c52cbd49-8920-470c-a446-f9440bbaa936"
+            },
+            {
+                "id": "fcee89f2-7433-40fc-8287-65c1e5fc9e65",
+                "url": "https://loremflickr.com/640/480/house?random=fcee89f2-7433-40fc-8287-65c1e5fc9e65"
+            },
+            {
+                "id": "a1a0036d-e7ff-4f2c-bdd8-77319e21da64",
+                "url": "https://loremflickr.com/640/480/house?random=a1a0036d-e7ff-4f2c-bdd8-77319e21da64"
+            }
+        ]
+    },
+    {
+        "id": "439a0e31-310d-4873-ae6f-284283687855",
+        "state": "active",
+        "housing_url": "appartement/huren/in/maastricht/clavecymbelstraat/VWTvE",
+        "type": "apartment",
+        "price": 1350,
+        "street": "Clavecymbelstraat",
+        "postcode": "6217CP",
+        "city": "Maastricht",
+        "province": "Limburg",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 81,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T09:33:09+0200",
+        "images": [
+            {
+                "id": "50479b32-3f52-47ed-b1c9-43896aa80ab5",
+                "url": "https://loremflickr.com/640/480/house?random=50479b32-3f52-47ed-b1c9-43896aa80ab5"
+            },
+            {
+                "id": "2f739dac-089a-44e5-81fa-5fe09cd5ec7f",
+                "url": "https://loremflickr.com/640/480/house?random=2f739dac-089a-44e5-81fa-5fe09cd5ec7f"
+            },
+            {
+                "id": "386d7357-20c3-4681-84b6-e4836c215171",
+                "url": "https://loremflickr.com/640/480/house?random=386d7357-20c3-4681-84b6-e4836c215171"
+            },
+            {
+                "id": "a01f9d08-259c-46d6-9694-2c7266f02863",
+                "url": "https://loremflickr.com/640/480/house?random=a01f9d08-259c-46d6-9694-2c7266f02863"
+            },
+            {
+                "id": "b6a73d1a-d757-437f-b8ee-fbe5caddee65",
+                "url": "https://loremflickr.com/640/480/house?random=b6a73d1a-d757-437f-b8ee-fbe5caddee65"
+            }
+        ]
+    },
+    {
+        "id": "6b72c538-489b-415b-b480-03da6c3194fa",
+        "state": "active",
+        "housing_url": "appartement/huren/in/hilversum/koningsstraat/VWSK8",
+        "type": "apartment",
+        "price": 730,
+        "street": "Koningsstraat",
+        "postcode": "1211NT",
+        "city": "Hilversum",
+        "province": "Noord-Holland",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 1,
+        "surface_living": 24,
+        "garden": false,
+        "garage": false,
+        "parking": false,
+        "balcony": false,
+        "storage": false,
+        "house_type": "free",
+        "created_at": "2024-07-31T09:22:03+0200",
+        "images": [
+            {
+                "id": "e5861c3c-e6e9-40fd-8b64-e5a562c10801",
+                "url": "https://loremflickr.com/640/480/house?random=e5861c3c-e6e9-40fd-8b64-e5a562c10801"
+            },
+            {
+                "id": "fb46c107-2400-413a-828f-cd6cb522f962",
+                "url": "https://loremflickr.com/640/480/house?random=fb46c107-2400-413a-828f-cd6cb522f962"
+            },
+            {
+                "id": "374bc907-73ed-4937-a204-85ef4d4064c8",
+                "url": "https://loremflickr.com/640/480/house?random=374bc907-73ed-4937-a204-85ef4d4064c8"
+            },
+            {
+                "id": "3df68de2-0f86-4ba7-abbc-897a5cbc6190",
+                "url": "https://loremflickr.com/640/480/house?random=3df68de2-0f86-4ba7-abbc-897a5cbc6190"
+            },
+            {
+                "id": "674ae163-1546-4b9d-8acb-3fc0f4de57e1",
+                "url": "https://loremflickr.com/640/480/house?random=674ae163-1546-4b9d-8acb-3fc0f4de57e1"
+            }
+        ]
+    },
+    {
+        "id": "0a4e856e-ca4a-4494-8926-a96c4d0f6eb9",
+        "state": "active",
+        "housing_url": "appartement/huren/in/delfzijl/ubbenslaan/VWPOT",
+        "type": "apartment",
+        "price": 1250,
+        "street": "Ubbenslaan",
+        "postcode": "9933GD",
+        "city": "Delfzijl",
+        "province": "Groningen",
+        "delivery_level": "upholstered",
+        "rental_status": "forRent",
+        "rooms_total": 3,
+        "surface_living": 75,
+        "garden": false,
+        "garage": false,
+        "parking": true,
+        "balcony": false,
+        "storage": true,
+        "house_type": "account",
+        "created_at": "2024-07-31T08:55:12+0200",
+        "images": [
+            {
+                "id": "04f0ce97-d620-4e4f-8576-6f740664ae74",
+                "url": "https://loremflickr.com/640/480/house?random=04f0ce97-d620-4e4f-8576-6f740664ae74"
+            },
+            {
+                "id": "a7e74b02-dfcf-4282-b985-2af66eb1bac9",
+                "url": "https://loremflickr.com/640/480/house?random=a7e74b02-dfcf-4282-b985-2af66eb1bac9"
+            },
+            {
+                "id": "6c1c2e29-8a98-40e6-8b01-b59e08f407e8",
+                "url": "https://loremflickr.com/640/480/house?random=6c1c2e29-8a98-40e6-8b01-b59e08f407e8"
+            },
+            {
+                "id": "f8c7783f-93f0-412c-9cb1-4339378fd9a6",
+                "url": "https://loremflickr.com/640/480/house?random=f8c7783f-93f0-412c-9cb1-4339378fd9a6"
+            },
+            {
+                "id": "0f6be830-9150-47ab-a9fc-2f76579b4999",
+                "url": "https://loremflickr.com/640/480/house?random=0f6be830-9150-47ab-a9fc-2f76579b4999"
+            }
+        ]
+    }
+]

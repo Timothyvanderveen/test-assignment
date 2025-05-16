@@ -1,0 +1,17 @@
+<div class="w-80 min-w-80 max-w-80 flex flex-col gap-6 border-r border-border h-full pr-8">
+	<div class="flex flex-col gap-2">
+		<h1 class="font-semibold text-2xl">Filters</h1>
+		<p class="text-secondary">Wij zoeken woningen op meer dan {{ this.RENTAL_COUNT }} huursites en bundelen alle gevonden woningen in een overzichtelijk aanbod.</p>
+	</div>
+	
+	<div class="flex flex-col gap-4">
+		<h1 class="font-semibold">Zoeken</h1>
+		{{ component('Base:FilterInputField', {queryParam: 'city', placeholder: 'Stad'}) }}
+	</div>
+	
+	<div class="flex flex-col gap-4">
+		<h1 class="font-semibold">Huurprijs</h1>
+		{{ component('Base:FilterInputField', {queryParam: 'priceMin', placeholder: 'Prijs vanaf'}) }}
+		{{ component('Base:FilterInputField', {queryParam: 'priceMax', placeholder: 'Prijs tot'}) }}
+	</div>
+</div>

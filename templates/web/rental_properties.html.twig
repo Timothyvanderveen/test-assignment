@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Huurwoningen{% endblock %}
+
+{% block body %}
+	<div class="flex flex-col gap-8">
+		<header>
+			{{ component('RentalProperty:Header', {location, resultCount, resultCountTotal }) }}
+		</header>
+		
+		<main class="flex h-[calc(100vh-14rem)] gap-14">
+			{{ component('RentalProperty:Sidebar') }}
+			
+			{{ component('RentalProperty:CardList', {rentalProperties}) }}
+		</main>
+	</div>
+{% endblock %}

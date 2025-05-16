@@ -1,0 +1,7 @@
+<div class="flex items-center justify-between w-full h-[80px] border-b border-border">
+	<h1 class="font-semibold text-4xl">Huurwoningen {% if location %} in {{ location|capitalize }}{% endif %}</h1>
+	<div class="flex flex-col items-end justify-center">
+		<p class="text-xl font-semibold">{{ resultCount }} resultaten</p>
+		<a class="text-sm text-link">Ontgrendel {{ resultCountTotal }} woningen in Amsterdam met een Gratis Account</a>
+	</div>
+</div>

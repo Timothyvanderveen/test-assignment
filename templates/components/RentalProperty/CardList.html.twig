@@ -1,0 +1,5 @@
+<div class="w-full content-start flex flex-wrap gap-6 overflow-auto">
+	{% for rentalProperty in this.rentalProperties %}
+		{{ component('RentalProperty:Card', {rentalProperty}) }}
+	{% endfor %}
+</div>

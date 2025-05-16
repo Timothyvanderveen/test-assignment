@@ -1,0 +1,20 @@
+<div class="w-[calc(50%-1.5rem/2)] h-80 border border-border rounded-2xl overflow-hidden">
+	<div class="h-[55%] overflow-hidden">
+		<img class="w-full" alt="cover_photo" src="{{ this.rentalProperty.getCoverImageUrl() }}">
+	</div>
+	
+	<div class="p-6 h-[45%] gap-6 flex flex-col">
+		<div class="flex flex-col gap-1">
+			<p class="font-semibold font-primary text-lg">{{ this.rentalProperty.getStreet() }}</p>
+			<p class="text-sm text-secondary">{{ this.rentalProperty.getCity() }}</p>
+		</div>
+		
+		<div class="flex justify-between ">
+			<p class="text-sm text-secondary">
+				<span class="font-semibold text-primary">€{{ this.rentalProperty.getPrice() }}</span>
+				/maand
+			</p>
+			<a class="text-link text-sm">Meer zien</a>
+		</div>
+	</div>
+</div>
