@@ -43,6 +43,10 @@ composer start
 
 > 🛠 This custom script builds Tailwind, stops any running services, and starts the web server at **127.0.0.1:8080**.
 
+6. **Navigate to the result page**
+
+`https://127.0.0.1:8080/appartement/huren`
+
 ## 📌 Aanpak
 
 Ik begon met het weer bekend worden met Symfony / Twig en het opzetten van PHPstan (leveltje 10) en CS fixer.  
