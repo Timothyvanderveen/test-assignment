@@ -81,7 +81,7 @@
             "@auto-scripts"
         ],
         "phpstan": "vendor/bin/phpstan -c phpstan.neon",
-        "start": "symfony local:server:stop && symfony server:start --port=8080"
+        "start": "php bin/console tailwind:build && symfony local:server:stop && symfony server:start --port=8080"
     },
     "conflict": {
         "symfony/symfony": "*"
